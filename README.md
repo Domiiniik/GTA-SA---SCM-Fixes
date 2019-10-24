@@ -9,6 +9,9 @@ LEGEND:
 Fixes marked with * require new game in order to take effect.
 
 Current Fixes as of 24.10.2019 release:
+
+
+
 -Fixed an issue in "Cesar Vialpando" where recruited gang members would be invisible during a cutscene in front of the Loco Low Co.
 
 -Fixed another issue in "Cesar Vialpando" where npc traffic wouldn't have spawn after the cutscene in front of the Loco Low Co.
