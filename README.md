@@ -40,7 +40,7 @@ Current Fixes as of 24.10.2019 release:
 
 -*Fixed missing Barber icon in El Quebrados.
 
--*Fixed 3 IR Goggles pickups spawning only once after "Black Project" mission is passed. (if you pick them once they'd no longer respawn like a mission pickup which should not be the case)
+-*Fixed 4 IR Goggles pickups spawning only once after "Black Project" mission is passed. (if you pick them once they'd no longer respawn like a mission pickup which should not be the case)
 
 -Fixed incorrect restaurant blip marked as a "Bar" on the radar during the "lets eat" date type with Barbara.
 
